@@ -1,2 +1,4 @@
 .env
 venv/
+datos_sentinel/
+*.npy
